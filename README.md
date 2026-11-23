@@ -16,11 +16,12 @@ This resource pack replaces standard Minecraft music with music from the mod **T
 
 ## Installation
 
-1. Download the latest `.zip` from [Releases](../../releases) (or zip the repository root containing `pack.mcmeta`, `pack.png`, and `assets/`).
+1. Download the latest `.zip` from [Releases](../../releases) (or `TFC_Music_Pack.zip` file from the repository root).
 2. Place the `.zip` into your `.minecraft/resourcepacks` folder.
 3. Enable **TFC Music Pack** in **Options → Resource Packs**.
 
 ## Credits & License
 
-- Music is taken from [TerraFirmaCraft](https://modrinth.com/mod/terrafirmacraft) by **Mike "Menoch" Pelaez**.
+- Music is taken from [TerraFirmaCraft](https://modrinth.com/mod/terrafirmacraft).
+- **Mike "Menoch" Pelaez** (the GOAT) made this music.
 - Licensed under **EUPL-1.2** (same as TerraFirmaCraft).
